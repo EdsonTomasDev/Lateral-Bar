@@ -1,0 +1,32 @@
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    /* padding: 10px 20px; */
+    /* border: 1px solid red; */
+    /* background: url(../../image/seta.png) no-repeat left center #f8b500; */
+    /* background: #f8b500; */
+   
+}
+.nav-bar li a {
+    text-decoration: none;
+    width: 200px;
+    height: 40px;
+    display: block;
+    /* border: 1px solid red; */
+    background: url(../../image/menu.png) no-repeat left bottom #f8b500;
+    color: #000;
+    text-indent: 30px;
+    line-height: 40px;
+    justify-content: center;
+}
+
+.nav-bar li a:hover {
+    background: #fb9300;
+    color: #fff;
+    background: url(../../image/menu.png) no-repeat right bottom #f8b500;
+
+}
