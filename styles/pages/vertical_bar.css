@@ -27,6 +27,14 @@
 .nav-bar li a:hover {
     background: #fb9300;
     color: #fff;
-    background: url(../../image/menu.png) no-repeat right bottom #f8b500;
+    background: url(../../image/menu.png) no-repeat right bottom #fb9300;
+    
+}
 
+#home .home a,
+#sobre .sobre a,
+#servicos .servicos a {
+    background: #fb9300;
+    color: #fff;
+    background: url(../../image/menu.png) no-repeat right bottom #fb9300;
 }
